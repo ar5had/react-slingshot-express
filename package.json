@@ -1,7 +1,7 @@
 {
-  "name": "trading-app",
+  "name": "react-slingshot-express",
   "version": "0.1.0",
-  "description": "A full stack js app for trading anything.",
+  "description": "React slingshot boilerplate with express server.",
   "engines": {
     "npm": ">=3"
   },
